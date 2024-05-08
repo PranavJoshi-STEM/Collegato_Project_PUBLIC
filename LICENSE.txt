@@ -1,0 +1,49 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (the "Agreement") is entered into by and between Pranav Joshi and Yajat Mittal, the owners of the software ("Licensors"), and the individual or entity using the software ("Licensee").
+
+1. DEFINITIONS
+
+1.1 "Software" refers to the computer program provided by Licensors, including all its standalone files, executable files, and related documentation.
+
+2. LICENSE GRANT
+
+2.1 Licensors hereby grants Licensee a non-exclusive, non-transferable license to use the Software, subject to the terms and conditions set forth in this Agreement.
+
+2.2 Licensee may install and use the Software on a single computer or device for personal or internal business purposes.
+
+3. RESTRICTIONS
+
+3.1 Licensee shall not modify, reverse engineer, decompile, or disassemble the Software or any part thereof.
+
+3.2 Licensee shall not distribute, sublicense, transfer, or assign any rights to the Software, except for the distribution of the standalone files (e.g., executable files) as specified in Section 4.
+
+3.3 Licensee shall not claim ownership of the Software or present it as their own intellectual property.
+
+3.4 If the licensee has recieved written permission by the licensors, they are able to modify the code as outlined by the licensors.
+
+4. DISTRIBUTION OF STANDALONE FILES
+
+4.1 Licensee is granted the right to distribute the standalone files of the Software, provided that such distribution is not for commercial purposes.
+
+4.2 Licensee shall not modify, reverse engineer, or disassemble the standalone files before distribution.
+
+4.3 Licensee shall not claim ownership of the standalone files or present them as their own intellectual property.
+
+5. OWNERSHIP
+
+5.1 Licensors retains all right, title, and interest in and to the Software, including all intellectual property rights.
+
+5.2 This Agreement does not grant Licensee any rights to trademarks, service marks, or trade names belonging to Licensors.
+
+6. TERM AND TERMINATION
+
+6.1 This Agreement is effective upon the installation of the Software and shall continue until terminated by either party.
+
+6.2 Licensors may terminate this Agreement immediately upon any breach of its terms by Licensee.
+
+7. ACCEPTANCE
+
+7.1 By installing, accessing, or using the Software, Licensee acknowledges that they have read, understood, and agreed to be bound by the terms and conditions of this Agreement.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software License Agreement as of the Effective Date (February 5, 2024).
