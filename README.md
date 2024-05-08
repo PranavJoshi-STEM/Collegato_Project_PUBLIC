@@ -1,11 +1,17 @@
 # Collegato (overall) - README.md
+## NOTE:
+
+This is the public repository of the Collegato project.  It has all markdown, database, batch and standalone executable files.  The only files removed from the project is the source code.  As we don't want people to plagarise our app, we request that you please email "Joshipn2018@gmail.com" to get access to the code.  In the meantime, you are free to check out the standard executable files!
+
+Please see LICENSE.txt to understand what you can or can't do with this software.
+---
 ## Collegato Description
 
 This is the project documentation regarding Collegato's overall creation; **client and server**.  All of the client and server is written using Python 3.11.8 and uses the PEP-8 coding styleguide for improved readability.
 
 - **Pranav Joshi:** https://www.linkedin.com/in/pranav-joshi-stem/, Joshipn2018@gmail.com
 - **Yajat Mittal:** https://www.linkedin.com/in/yajat-mittal-82941b20a/
-- **Public repository:** {If this doesn't have a link, then the project doesn't have a public repository yet!}
+- **Public repository:** https://github.com/PranavJoshi-STEM/Collegato_Project_PUBLIC/
 
 ### For more information regarding the client/server, please check the respective folders for their specific PROJECT_DOCUMENTATION.md and README.md.
 
